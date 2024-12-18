@@ -66,4 +66,5 @@ D --> E[Display Caption]
 As well as improving your skills and connecting with our amazing community, we have some great prizes up for grabs! 👇
 
 🥇 **Best Code award**: direct participation in the next course to be recorded (you will be part of the content and much more) 🌟
+
 🥈 **Best UI award:** 1:1 Individual Coaching with @gonzalogcontacto (community founder)
