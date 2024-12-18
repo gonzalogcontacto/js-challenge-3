@@ -58,6 +58,11 @@ D --> E[Display Caption]
 
 5. (optional) Share your experience: Post your progress on social media using the hashtag #RetoCodigoBootHack so we can see you in action and mention @boothackTV.
 
+**Enhancements:**
+* **Error Handling:** Implement robust error handling to gracefully handle cases where the API call fails or returns an invalid response.
+* **User Interface:** Create a visually appealing interface with input fields, buttons, and a clear display of the generated caption.
+* **Multiple APIs:** Allow users to choose from different AI captioning services to compare results.
+* **Image Preprocessing:** Implement basic image preprocessing steps (resizing, compression) to optimize API calls and reduce latency.
 
 
 **What can you win?** 🎁
